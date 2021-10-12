@@ -1,0 +1,15 @@
+.top{
+    background-color: black;
+    color:whitesmoke;
+}
+.mid{
+    text-align: center;
+    background-color: purple;
+    color: whitesmoke;
+}
+.bot{
+    text-align: right;
+    text-decoration: underline;
+    background-color: teal;
+    color: purple;
+}
